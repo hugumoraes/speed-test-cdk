@@ -10,6 +10,8 @@
     "noImplicitThis": true,
     "alwaysStrict": true,
     "noUnusedLocals": false,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
     "noUnusedParameters": false,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": false,
